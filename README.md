@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine Learning
 ## Overview
 A self-implemented machine learning algorithms following the machine learning specialization on Cousera with Washinton University.
 ## Requirements
